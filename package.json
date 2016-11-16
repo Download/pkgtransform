@@ -28,10 +28,10 @@
   "homepage": "https://github.com/download/pkgtransform",
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.3.4"
+    "mocha": "^3.1.2"
   },
   "dependencies": {
-    "object-path": "^0.9.2",
+    "object-path": "^0.11.2",
     "path": "^0.12.7"
   }
 }
